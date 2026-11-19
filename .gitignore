@@ -1,0 +1,8 @@
+.venv/
+canto_data/
+__pycache__/
+*.wav
+*.mp3
+*.flac
+*.m4a
+*.ogg

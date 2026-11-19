@@ -1,0 +1,12 @@
+# Installa PRIMA torch/torchaudio con CUDA da https://pytorch.org/get-started/locally/
+demucs
+torchcrepe
+librosa
+soundfile
+sounddevice
+numpy
+matplotlib
+whisperx
+scipy
+PySide6
+pyqtgraph
