@@ -1,4 +1,5 @@
 .venv/
+old/
 canto_data/
 __pycache__/
 *.wav
